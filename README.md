@@ -1,1 +1,1 @@
-https://otp-generator-js-sudeep.netlify.app/
+ updatedhttps://otp-generator-js-sudeep.netlify.app/
